@@ -1,6 +1,6 @@
-# DocuMingle - Google Docs Clone
+# DocuMingle - A real-time collaborative document editing platform
 
-DocuMingle is a real-time collaborative document editing platform inspired by Google Docs. Built with React, Socket.io, and MongoDB, it allows multiple users to edit documents simultaneously and see each other's changes in real-time.
+ Built with React, Socket.io, and MongoDB, it allows multiple users to edit documents simultaneously and see each other's changes in real-time.
 
 ## Features
 
